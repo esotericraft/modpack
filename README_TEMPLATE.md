@@ -49,4 +49,4 @@ See [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) for the code of conduct.
 
 ## Credit
 
-- [Template Asset Repository](https://github.com/esoterictemplates/esoteric-defaults-modpack) Copyright (C) 2024-2025 [Esoteric Enderman](https://enderman.dev) licensed under [CC BY-SA 4.0](./LICENSE).
+- [Esoteric Defaults Modpack](https://github.com/esoterictemplates/esoteric-defaults-modpack) Copyright (C) 2024-2025 [Esoteric Enderman](https://enderman.dev) licensed under [CC BY-SA 4.0](./LICENSE).
