@@ -1,10 +1,10 @@
-# Template Asset Repository
+# Esoteric Defaults Modpack
 
-<sup>Forked from [Template Repository](https://github.com/EsotericTemplates/template-repository)</sup>
+<sup>Forked from [Template Asset Repository](https://github.com/EsotericTemplates/template-asset-repository)</sup>
 
-[![Project Status: Maintained](./.assets/images/badges/status/maintained.svg)](./) [![Repository Size](https://img.shields.io/github/repo-size/EsotericTemplates/template-asset-repository?style=for-the-badge&logo=github&label=Repository%20size)](./)
+[![Project Status: Maintained](./.assets/images/badges/status/maintained.svg)](./) [![Repository Size](https://img.shields.io/github/repo-size/EsotericTemplates/esoteric-defaults-modpack?style=for-the-badge&logo=github&label=Repository%20size)](./)
 
-This repository serves as a template for generating new projects for asset files.
+An opinionated set of mods that you simply should not play the game without.
 
 ## Usage
 
@@ -46,7 +46,7 @@ The following serves as a checklist - a list of tasks to complete when creating 
 
 ## Features
 
-See [FEATURES.md](./docs/FEATURES.md) for a list of features of this template.
+See [FEATURES.md](./docs/FEATURES.md) for a list of features of this modpack.
 
 ## Changelog
 
@@ -54,11 +54,11 @@ See [CHANGELOG.md](./CHANGELOG.md) for a list of changes throughout different ve
 
 ## Ideas
 
-See [IDEAS.md](./IDEAS.md) for ideas and planned features for this template.
+See [IDEAS.md](./IDEAS.md) for ideas and planned features for this modpack.
 
 ## Issues
 
-See [ISSUES.md](./ISSUES.md) for a list of known bugs/issues with this template.
+See [ISSUES.md](./ISSUES.md) for a list of known bugs/issues with this modpack.
 
 ## Code of Conduct
 
@@ -67,7 +67,7 @@ See [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) for the code of conduct.
 ## License
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">
-  <a property="dct:title" rel="cc:attributionURL" href="https://github.com/EsotericTemplates/template-asset-repository">Template Asset Repository</a> &copy; 2024-2025 by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://enderman.dev">Esoteric Enderman</a> is licensed under <a href="./LICENSE" target="_blank" rel="license noopener noreferrer" style="display: inline-block">CC BY-SA 4.0</a>.
+  <a property="dct:title" rel="cc:attributionURL" href="https://github.com/EsotericTemplates/esoteric-defaults-modpack">Esoteric Defaults Modpack</a> &copy; 2024-2025 by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://enderman.dev">Esoteric Enderman</a> is licensed under <a href="./LICENSE" target="_blank" rel="license noopener noreferrer" style="display: inline-block">CC BY-SA 4.0</a>.
 </p>
 
 <a href="https://creativecommons.org/"><img style="height: 22px !important; margin-left: 3px; vertical-align: middle" src="./.assets/images/icons/cc/cc.svg" alt="Creative Commons Icon" /></a><a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en"><img style="height: 22px !important; margin-left: 3px; vertical-align: middle" src="./.assets/images/icons/cc/by.svg" alt="Creative Commons Attribution Icon" /></a><a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en"><img style="height: 22px !important; margin-left: 3px; vertical-align: middle" src="./.assets/images/icons/cc/sa.svg" alt="Creative Commons ShareAlike Icon" /></a>

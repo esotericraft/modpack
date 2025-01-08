@@ -38,3 +38,11 @@ This file documents all of the features of this project.
 ### [IntelliJ IDEA .gitignore](../.idea/.gitignore)
 
 - Ignores certain files when opening with IntelliJ IDEA and possibly other IDEs too.
+
+## [Performance Mods](../modrinth.index.json)
+
+- Best mods for performance and FPS boosts.
+
+## [Configurations](../overrides/)
+
+- Configurations for best performance and convenience.
