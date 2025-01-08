@@ -46,3 +46,7 @@ This file documents all of the features of this project.
 ## [Configurations](../overrides/)
 
 - Configurations for best performance and convenience.
+
+## [Script](../scripts/zip.sh)
+
+- A script to pack the modpack.

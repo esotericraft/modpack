@@ -19,3 +19,4 @@
 #### Additions
 
 - Basic performance and style mods.
+- Script to pack the modpack.
