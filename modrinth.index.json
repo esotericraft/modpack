@@ -123,7 +123,6 @@
     ],
     "formatVersion": 1,
     "game": "minecraft",
-    "name": "Esoteric Defaults",
-    "summary": "An opinionated set of mods that you simply should not play the game without.",
-    "versionId": "1.0.0"
+    "name": "EsoteriCraft",
+    "versionId": "0.0.1"
 }
