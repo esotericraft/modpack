@@ -4,7 +4,7 @@
 
 [![Project Status: Maintained](./.assets/images/badges/status/maintained.svg)](./) [![Repository Size](https://img.shields.io/github/repo-size/EsotericTemplates/esoteric-defaults-modpack?style=for-the-badge&logo=github&label=Repository%20size)](./)
 
-An opinionated set of mods that you simply should not play the game without.
+The ultimate Minecraft experience...
 
 ## Usage
 
