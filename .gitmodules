@@ -1,3 +1,3 @@
-[submodule "overrides"]
+[submodule "configuration"]
 	path = overrides
-	url = git@github.com:esoterictemplates/template-minecraft-configuration.git
+	url = git@github.com:esotericraft/configuration.git
